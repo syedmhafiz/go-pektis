@@ -6,7 +6,7 @@ import (
 
 func main() {
 
-	if i := 3; i < 3 {
+	if i := 1; i < 3 {
 		fmt.Println(i * 10)
 	} else {
 		i += 10
